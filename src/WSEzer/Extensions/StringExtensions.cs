@@ -2,7 +2,7 @@
 using System.Security.Cryptography;
 using System.Text;
 
-namespace WSEzer
+namespace WSEzer.Extensions
 {
     public static class StringExtensions
     {

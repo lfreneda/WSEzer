@@ -1,6 +1,7 @@
 ﻿using System;
 using System.ServiceModel.Channels;
 using System.Xml;
+using WSEzer.Extensions;
 
 namespace WSEzer
 {

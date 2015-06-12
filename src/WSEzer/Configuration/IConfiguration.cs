@@ -1,4 +1,4 @@
-namespace WSEzer
+namespace WSEzer.Configuration
 {
     public interface IConfiguration
     {

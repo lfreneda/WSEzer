@@ -1,4 +1,5 @@
 using System.ServiceModel;
+using WSEzer.Configuration;
 
 namespace WSEzer.Extensions
 {
